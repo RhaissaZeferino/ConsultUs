@@ -1,0 +1,140 @@
+#indexConsult p {
+    font-size: 1.2rem;
+}
+
+#menuStyle {
+    padding-left: 1rem;
+    background-color: #def0f3b6;
+}
+
+#menuStyle a {
+    font-weight: bold;
+    color: #417982;
+}
+
+#headerHome {
+    background-image: url("../images/background.jpg");
+    background-color: #cccccc;
+    width: 100%;
+    padding-right: 35rem;
+}
+
+#headerHome h1 {
+    margin-top: 3rem;
+    color: #417982;
+    font-size: 5.5rem;
+}
+
+#headerHome h2 {
+    margin-top: 0.5rem;
+    color: #417982;
+    font-size: 5rem;
+}
+
+#headerHome p {
+    padding-top: 1rem;
+    padding-right: 10rem;
+}
+
+#headerHome a {
+    color: white;
+    background-color: #2299aa;
+    font-weight: bold;
+}
+
+#headerHome button {
+    font-weight: bold;
+    color: #2299aa;
+}
+
+#aboutUs {
+    padding-top: 3rem;
+}
+
+#aboutUs img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#doLogin {
+    margin-top: 3rem;
+    background-color: #e2ebec;
+    height: 35rem;
+    position: relative;
+}
+
+#doLogin h1 {
+    padding-top: 5rem;
+    color: #417982;
+    font-size: 5.5rem;
+    position: absolute;
+    padding-left: 15rem;
+    text-align: center;
+    width: 80%;
+}
+
+#doLogin a {
+    margin-top: 10rem;
+    color: white;
+    background-color: #2299aa;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#loginStyle button {
+    padding: 12px 28px;
+    border-radius: 4px;
+    background-color: #417982;
+    color: #fff;
+}
+
+#usuarioLogado {
+    background: linear-gradient(transparent, white), url("../images/background.jpg");
+    background-color: #cccccc;
+    width: 100%;
+    padding-right: 35rem;
+}
+
+#usuarioLogado h1 {
+    margin-top: 3rem;
+    color: #417982;
+    font-size: 5.5rem;
+}
+
+#usuarioLogado h2 {
+    margin-top: 0.5rem;
+    color: #417982;
+    font-size: 5rem;
+}
+
+#pages h2 {
+    margin-top: 0.5rem;
+    color: #2299aa;
+    font-size: 3rem;
+    margin-bottom: 4rem;
+}
+
+#pages label {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #417982;
+}
+
+#pages button {
+    padding: 12px 28px;
+    border-radius: 4px;
+    background-color: #417982;
+    color: #fff;
+    margin-left: 18rem;
+}
+
+#contatoNomes {
+    color: #417982;
+    background-image: url("../images/background2.jpg");
+    height: 100%;
+    background-color: #cccccc;
+}
